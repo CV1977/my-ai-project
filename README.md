@@ -2,7 +2,7 @@
 Building AI course project
 # Project Title : Using AI for Detection and Prediction of Crop Diseases 
 
-Summary
+##Summary
 
 This project aims to develop an AI-powered system for early detection and prediction of crop diseases using various data sources and machine learning techniques. The goal is to help farmers prevent significant crop loss and ensure food security by providing timely and accurate insights.
 Background
