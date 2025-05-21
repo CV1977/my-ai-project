@@ -13,7 +13,7 @@ Crop diseases pose a significant threat to global food security, leading to subs
     Problem 2: Delayed Detection: Traditional methods of disease detection are often manual, time-consuming, and can lead to delayed intervention, allowing diseases to spread.
     Problem 3: Lack of Predictive Capability: Farmers often react to existing problems rather than proactively preventing them, leading to less effective interventions.
 
-My personal motivation stems from observing the struggles of local farmers through history with unpredictable crop yields due to disease outbreaks. I believe that leveraging AI can empower them with better tools for sustainable agriculture. This topic is crucial because food security is a fundamental human need, and protecting crops directly contributes to ensuring stable food supplies and livelihoods.
+My personal motivation stems from observing the struggles of farmers through history with unpredictable crop yields due to disease outbreaks. I believe that leveraging AI can empower them with better tools for sustainable agriculture. This topic is crucial because food security is a fundamental human need, and protecting crops directly contributes to ensuring stable food supplies and livelihoods.
 How is it used?
 
 The solution will be primarily used by farmers, agricultural extension workers, and agronomists.
