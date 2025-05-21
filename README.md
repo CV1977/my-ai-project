@@ -1,6 +1,6 @@
 # my-ai-project
 Building AI course project
-# Project Title
+# Project Title : Using AI for Detection and Prediction of Crop Diseases 
 
 Summary
 
@@ -27,30 +27,7 @@ The process would involve:
 
 The solution is needed in various agricultural settings, from small family farms to large commercial operations. It can be used proactively for monitoring and predictively before visible symptoms appear, as well as reactively for diagnosing existing issues. Users will need a simple, intuitive interface, and the recommendations should be practical and easy to implement. The system should also consider the economic feasibility of proposed solutions for farmers.
 
-&lt;img src="[suspicious link removed]" width="600">
 
-This is how you create code examples:
-Python
-
-def predict_disease(image_path, temperature, humidity, soil_pH):
-    # This is a simplified placeholder for the actual AI model prediction
-    # In a real scenario, this would involve loading a trained model and
-    # running inference on the input data.
-    
-    # For demonstration, let's assume some basic conditions
-    if temperature > 30 and humidity > 80:
-        print("High risk of fungal diseases.")
-        return "Fungal blight"
-    elif soil_pH < 5.5:
-        print("Potential for nutrient deficiencies or specific acidic-loving diseases.")
-        return "Nutrient deficiency (acidic soil)"
-    else:
-        print("No immediate high risk detected based on current parameters.")
-        return "Healthy or low risk"
-
-# Example usage:
-# disease_prediction = predict_disease("plant_leaf_image.jpg", 32, 85, 6.2)
-# print(f"Predicted condition: {disease_prediction}")
 
 Data sources and AI methods
 
